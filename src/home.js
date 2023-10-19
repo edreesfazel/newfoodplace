@@ -16,7 +16,7 @@ const home = (container) => {
 
     //pizza image
     const pizzaImage = document.createElement('img')
-    pizzaImage.setAttribute('src', "../pizza.jpg")
+    pizzaImage.setAttribute('src', "pizza.jpg")
 
     container.appendChild(pizzaImage)
 
